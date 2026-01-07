@@ -5,4 +5,8 @@ function a1(){
     
 
 }
+
+function newfunction(){
+    //new function main
+}
 ?>
