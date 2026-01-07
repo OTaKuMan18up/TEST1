@@ -1,7 +1,7 @@
 <?php
 function a1(){
     
-    $abc = 'hotfixbug แก้บัค';
+    $abc = 'hotfixbug แก้บัค บัคด่วน';
     
 
 }
